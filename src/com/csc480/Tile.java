@@ -1,5 +1,11 @@
 package com.csc480;
 
+/**
+ * Tile class: object the holds one and only one value
+ * 
+ * @author Jeffrey B Cuadros
+ *
+ */
 public class Tile {
 	
 	private int value;
